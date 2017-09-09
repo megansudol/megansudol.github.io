@@ -1,0 +1,46 @@
+body{
+	background-color: black;
+}
+
+	h1{
+	text-align: center;
+	color:turquoise;
+	text-shadow:2px 2px #0000ff;
+}
+	h2{
+	text-align: left;
+	color:blue;
+}
+	h4{
+	text-decoration: italic;
+	color:green;
+}
+
+	p{
+		font-size:20px;
+		color:turquoise;
+		font-style: italic;
+
+}
+
+	li{
+	color:turquoise;
+
+	}
+	img{
+		width:700px;
+		height:275px;
+		position:absolute;
+		padding:100px;
+	}
+
+}
+.header{
+	background-color: hsl(120, 100%, 75%);
+
+
+}
+.list{
+	font-weight: italic;
+	size:10px;
+}
